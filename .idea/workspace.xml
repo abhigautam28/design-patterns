@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="72770484-3660-4cf1-b435-6a94140fa2f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/abstractFactory/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/builderPattern/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/factory/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/factory/FactaryMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/factory/FactoryPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/factory/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/factory/Safe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/factory/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/movie/database/creationalDesingPattern/singletonPattern/SingletonClass.java" afterDir="false" />
+    <list default="true" id="72770484-3660-4cf1-b435-6a94140fa2f1" name="Changes" comment="master-Added module for design pattern and Low Level Design">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -133,6 +112,47 @@
       <option name="presentableId" value="Default" />
       <updated>1739954021543</updated>
     </task>
+    <task id="LOCAL-00001" summary="master-Added module for design pattern and Low Level Design">
+      <option name="closed" value="true" />
+      <created>1743308722177</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1743308722177</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
+                <map>
+                  <entry key="Show.Git.Branches" value="true" />
+                </map>
+              </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="master-Added module for design pattern and Low Level Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="master-Added module for design pattern and Low Level Design" />
   </component>
 </project>
