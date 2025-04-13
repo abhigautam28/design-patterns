@@ -1,0 +1,5 @@
+Builder Pattern, let  you build complex object step by step. using only those step you really need.
+
+Use the Builder pattern to get rid of a “telescoping constructor”.
+ == let's say you constructor with 10 optional parameter, and you want 3 and 4 parm object. then you have to create costructor with possible param, so number 
+ == of constructor will be huge.
