@@ -1,0 +1,7 @@
+- Use the Strategy pattern when you want to use different type of algorithm within an object and be able to switch from one algorithm to another during runtime.
+- Use the pattern when your class has a massive conditional statement that switches between different variants of the same algorithm.
+    = The Strategy pattern lets you do away with such a conditional by extracting all algorithms into separate classes, all of which implement the same interface.
+
+-When you have multiple algorithms for a specific task and need to choose one at runtime.
+-To avoid writing numerous conditional statements (e.g., if-else or switch).
+-When you want to decouple a class from the implementation of specific algorithms.
